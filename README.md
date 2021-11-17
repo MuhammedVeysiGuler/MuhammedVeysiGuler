@@ -17,6 +17,6 @@ Hi, Welcome To My Github Profile 👋 👋 👋
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedVeysiGuler&show_icons=true&theme=radical" alt="MuhammedVeysiGuler :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedVeysiGuler&show_icons=true&theme=radical&count_private=true" alt="MuhammedVeysiGuler :: Profile Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedVeysiGuler&langs_count=10&theme=radical&layout=compact" alt="MuhammedVeysiGuler :: Top Langs" />
 </p>
