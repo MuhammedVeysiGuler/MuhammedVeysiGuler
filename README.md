@@ -20,5 +20,12 @@ Hi, Welcome To My Github Profile 👋 👋 👋
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammedVeysiGuler&show_icons=true&theme=radical&count_private=true" alt="MuhammedVeysiGuler :: Profile Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedVeysiGuler&theme=radical&layout=compact&count_private=true" alt="MuhammedVeysiGuler :: Top Langs" />
 </p>
+<!---
+<div align="center">
+ 
+  [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammedVeysiGuler&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+*/
+--->
 <div  align="center"> <img src="https://github.com/MuhammedVeysiGuler/MuhammedVeysiGuler/blob/output/github-contribution-grid-snake.svg" /></div>
 
