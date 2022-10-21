@@ -7,7 +7,7 @@ Hi, Welcome To My Github Profile 👋 👋 👋
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MuhammedVeysiGuler&color=blue" alt="MuhammedVeysiGuler :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/MuhammedVeysiGuler/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@muhammedveysiguler-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:mveysioffical@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.veysiguler@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:mveysioffical@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mveysioffical@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
